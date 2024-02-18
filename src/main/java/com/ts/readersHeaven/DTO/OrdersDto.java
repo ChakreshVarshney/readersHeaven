@@ -30,42 +30,7 @@ public class OrdersDto {
 	private String shippingOpt;
 	@Column(name = "total_price")
 	private double totalPrice;
-//	public long getOrderId() {
-//		return orderId;
-//	}
-//	public void setOrderId(long orderId) {
-//		this.orderId = orderId;
-//	}
-//	public long getCustomerId() {
-//		return customerId;
-//	}
-//	public void setCustomerId(long customerId) {
-//		this.customerId = customerId;
-//	}
-//	public Date getOrderDate() {
-//		return orderDate;
-//	}
-//	public void setOrderDate(Date orderDate) {
-//		this.orderDate = orderDate;
-//	}
-//	public long getStatusId() {
-//		return statusId;
-//	}
-//	public void setStatusId(long statusId) {
-//		this.statusId = statusId;
-//	}
-//	public String getShippingOpt() {
-//		return shippingOpt;
-//	}
-//	public void setShippingOpt(String shippingOpt) {
-//		this.shippingOpt = shippingOpt;
-//	}
-//	public double getTotalPrice() {
-//		return totalPrice;
-//	}
-//	public void setTotalPrice(double totalPrice) {
-//		this.totalPrice = totalPrice;
-//	}
+
 	
 
 }

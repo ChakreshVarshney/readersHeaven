@@ -1,4 +1,4 @@
-package kafkaConfigFiles;
+package com.ts.readersHeaven.KafkaConfigFiles;
 
 import java.util.HashMap;
 import java.util.Map;
